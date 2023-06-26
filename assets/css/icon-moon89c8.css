@@ -1,0 +1,428 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon7a07.eot?471gkl');
+  src:  url('../fonts/icomoon7a07.eot?471gkl#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon7a07.ttf?471gkl') format('truetype'),
+    url('../fonts/icomoon7a07.woff?471gkl') format('woff'),
+    url('../fonts/icomoon7a07.svg?471gkl#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon-2b202.eot?pxr43h');
+  src:  url('../fonts/icomoon-2b202.eot?pxr43h#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon-2b202.ttf?pxr43h') format('truetype'),
+    url('../fonts/icomoon-2b202.woff?pxr43h') format('woff'),
+    url('../fonts/icomoon-2b202.svg?pxr43h#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon-31be2.eot?f1doz9');
+    src: url('../fonts/icomoon-31be2.eot?f1doz9#iefix') format('embedded-opentype'), url('../fonts/icomoon-31be2.ttf?f1doz9') format('truetype'), url('../fonts/icomoon-31be2.woff?f1doz9') format('woff'), url('../fonts/icomoon-31be2.svg?f1doz9#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-down-arrow-slider_add-user-icon:before {
+  content: "\e900";
+  color: #969697;
+}
+.icon-down-arrow-slider_Chemicals--Pharmaceuticals:before {
+  content: "\e901";
+  color: #fff;
+}
+.icon-down-arrow-slider_Chemicals-pharmaceuticals:before {
+  content: "\e902";
+  color: #fff;
+}
+.icon-down-arrow-slider_Coal--Lignite:before {
+  content: "\e903";
+  color: #fff;
+}
+.icon-down-arrow-slider_Corona-icon .path1:before {
+  content: "\e904";
+  color: rgb(255, 255, 255);
+}
+.icon-down-arrow-slider_Corona-icon .path2:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(231, 43, 42);
+}
+.icon-down-arrow-slider_Corona-icon .path3:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(250, 207, 189);
+}
+.icon-down-arrow-slider_Corona-icon .path4:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(186, 35, 38);
+}
+.icon-down-arrow-slider_Corona-icon .path5:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(186, 35, 38);
+}
+.icon-down-arrow-slider_Corona-icon .path6:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(186, 35, 38);
+}
+.icon-down-arrow-slider_Corona-icon .path7:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(186, 35, 38);
+}
+.icon-down-arrow-slider_Corona-icon .path8:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(186, 35, 38);
+}
+.icon-down-arrow-slider_Corona-icon .path9:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(186, 35, 38);
+}
+.icon-down-arrow-slider_Corona-icon .path10:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(186, 35, 38);
+}
+.icon-down-arrow-slider_Corona-icon .path11:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(186, 35, 38);
+}
+.icon-down-arrow-slider_Corona-icon .path12:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(186, 35, 38);
+}
+.icon-down-arrow-slider_Corona-icon .path13:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(186, 35, 38);
+}
+.icon-down-arrow-slider_Corona-icon .path14:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(186, 35, 38);
+}
+.icon-down-arrow-slider_Dormant:before {
+  content: "\e912";
+  color: #fff;
+}
+.icon-down-arrow-slider_Down-arrow:before {
+  content: "\e913";
+  color: #fff;
+}
+.icon-down-arrow-slider_Enterprises-Under-Construction:before {
+  content: "\e914";
+  color: #fff;
+}
+.icon-down-arrow-slider_facebook .path1:before {
+  content: "\e915";
+  color: rgb(255, 255, 255);
+}
+.icon-down-arrow-slider_facebook .path2:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(60, 90, 153);
+}
+.icon-down-arrow-slider_Fertilizers:before {
+  content: "\e917";
+  color: #fff;
+}
+.icon-down-arrow-slider_Financial-Services:before {
+  content: "\e918";
+  color: #fff;
+}
+.icon-down-arrow-slider_Heavy-Engineering:before {
+  content: "\e919";
+  color: #fff;
+}
+.icon-down-arrow-slider_Insurance-Services:before {
+  content: "\e91a";
+  color: #fff;
+}
+.icon-down-arrow-slider_Left-Arrow-Slider:before {
+  content: "\e91b";
+  color: #fff;
+}
+.icon-down-arrow-slider_linkedin .path1:before {
+  content: "\e91c";
+  color: rgb(255, 255, 255);
+}
+.icon-down-arrow-slider_linkedin .path2:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(17, 118, 169);
+}
+.icon-down-arrow-slider_Login:before {
+  content: "\e91e";
+  color: #fff;
+}
+.icon-down-arrow-slider_Medium--Light-Engineering-16:before {
+  content: "\e91f";
+  color: #fff;
+}
+.icon-down-arrow-slider_Medium--Light-Engineering-17:before {
+  content: "\e920";
+  color: #fff;
+}
+.icon-down-arrow-slider_Other-minerals--metals:before {
+  content: "\e921";
+  color: #fff;
+}
+.icon-down-arrow-slider_password:before {
+  content: "\e922";
+  color: #fcfcfc;
+}
+.icon-down-arrow-slider_Petroleum-refinery--Marketing:before {
+  content: "\e923";
+  color: #fff;
+}
+.icon-down-arrow-slider_Right-Arrow-Slider:before {
+  content: "\e924";
+  color: #fff;
+}
+.icon-down-arrow-slider_seinior-citizen:before {
+  content: "\e925";
+  color: #969697;
+}
+.icon-down-arrow-slider_sitemap:before {
+  content: "\e926";
+  color: #969697;
+}
+.icon-down-arrow-slider_Telecommunication-Services:before {
+  content: "\e927";
+  color: #fff;
+}
+.icon-down-arrow-slider_Transport-Services:before {
+  content: "\e928";
+  color: #fff;
+}
+.icon-down-arrow-slider_Transportation-Equipment:before {
+  content: "\e929";
+  color: #fff;
+}
+.icon-down-arrow-slider_twitter .path1:before {
+  content: "\e92a";
+  color: rgb(255, 255, 255);
+}
+.icon-down-arrow-slider_twitter .path2:before {
+  content: "\e92b";
+  margin-left: -1em;
+  color: rgb(53, 188, 237);
+}
+.icon-down-arrow-slider_User-name:before {
+  content: "\e92c";
+  color: #fff;
+}
+.icon-down-arrow-slider_youtube .path1:before {
+  content: "\e92d";
+  color: rgb(255, 255, 255);
+}
+.icon-down-arrow-slider_youtube .path2:before {
+  content: "\e92e";
+  margin-left: -1em;
+  color: rgb(211, 38, 41);
+}
+
+
+
+
+.icon-uniE100:before {
+  content: "\e100";
+}
+.icon-uniE101:before {
+  content: "\e101";
+}
+.icon-uniE102:before {
+  content: "\e102";
+}
+.icon-uniE103:before {
+  content: "\e103";
+}
+.icon-uniE104:before {
+  content: "\e104";
+}
+.icon-uniE105:before {
+  content: "\e105";
+}
+.icon-uniE106:before {
+  content: "\e106";
+}
+.icon-uniE107:before {
+  content: "\e107";
+}
+.icon-uniE108:before {
+  content: "\e108";
+}
+.icon-uniE109:before {
+  content: "\e109";
+}
+.icon-uniE110:before {
+  content: "\e110";
+}
+.icon-uniE111:before {
+  content: "\e111";
+}
+.icon-uniE112:before {
+  content: "\e112";
+}
+.icon-uniE113:before {
+  content: "\e113";
+}
+.icon-uniE114:before {
+  content: "\e114";
+}
+.icon-uniE115:before {
+  content: "\e115";
+}
+.icon-uniE116:before {
+  content: "\e116";
+}
+.icon-uniE117:before {
+  content: "\e117";
+}
+.icon-uniE118:before {
+  content: "\e118";
+}
+.icon-uniE119:before {
+  content: "\e119";
+}
+.icon-uniE120:before {
+  content: "\e120";
+}
+.icon-uniE121:before {
+  content: "\e121";
+}
+.icon-uniE122:before {
+  content: "\e122";
+}
+.icon-uniE123:before {
+  content: "\e123";
+}
+.icon-uniE124:before {
+  content: "\e124";
+}
+.icon-uniE125:before {
+  content: "\e125";
+}
+.icon-uniE126:before {
+  content: "\e126";
+  color: #fff;
+}
+.icon-uniE127:before {
+  content: "\e127";
+  color: #f36f21;
+}
+.icon-uniE128:before {
+  content: "\e128";
+  color: #161b4b;
+}
+.icon-uniE129:before {
+  content: "\e129";
+  color: #c8a360;
+}
+.icon-uniE130 .path1:before {
+  content: "\e130";
+  color: rgb(200, 163, 96);
+}
+.icon-uniE130 .path2:before {
+  content: "\e131";
+  margin-left: -1em;
+  color: rgb(200, 163, 96);
+}
+.icon-uniE130 .path3:before {
+  content: "\e132";
+  margin-left: -1em;
+  color: rgb(200, 164, 96);
+}
+.icon-uniE130 .path4:before {
+  content: "\e133";
+  margin-left: -1em;
+  color: rgb(200, 164, 96);
+}
+.icon-uniE130 .path5:before {
+  content: "\e134";
+  margin-left: -1em;
+  color: rgb(200, 164, 96);
+}
+.icon-uniE135:before {
+  content: "\e135";
+  color: #c8a360;
+}
+.icon-uniE136:before {
+  content: "\e136";
+  color: #f9f9f9;
+}
+.icon-uniE137:before {
+  content: "\e137";
+  color: #f9f9f9;
+}
+.icon-uniE138:before {
+  content: "\e138";
+  color: #f9f9f9;
+}
+
+
+
+.icon-uniE1135:before {
+    content: "\e1135";
+}
+
+.icon-uniE1136:before {
+    content: "\e1136";
+}
+
+.icon-uniE1137:before {
+    content: "\e1137";
+}
+
+.icon-uniE1138:before {
+    content: "\e1138";
+}
+
+.icon-uniE1139:before {
+    content: "\e1139";
+}
+
+.icon-uniE1140:before {
+    content: "\e1140";
+}
+
+.icon-uniE1141:before {
+    content: "\e1141";
+}
+
+.icon-uniE1142:before {
+    content: "\e1142";
+}
+
+.icon-uniE1143:before {
+    content: "\e1143";
+}
